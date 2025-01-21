@@ -14,12 +14,12 @@ local palette = {
     color12 = '#71baf2',
     color13 = '#ce89df',
     color14 = '#67cbe7',
-    color15 = '#bdc3c2',
-    comment = '#536266',
-    contrast = '#161d1f',
+    color15 = '#ffffff',
+    comment = '#707070',
+    contrast = '#202020',
     background = '#151515',
-    foreground = '#dadada',
-    cursorline = '#2c3333',
+    foreground = '#ffffff',
+    cursorline = '#252525',
     none = 'NONE',
 }
 
