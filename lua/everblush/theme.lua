@@ -21,7 +21,7 @@ function M.get(config)
         CursorColumn = { bg = background },
         CursorIM = { fg = p.foreground, bg = p.foreground },
         CursorLine = { bg = p.cursorline },
-        CursorLineNr = { fg = p.cursorline },
+        CursorLineNr = { fg = p.color7 },
         Debug = { fg = p.color1 },
         Define = { fg = p.color6 },
         Delimiter = { fg = p.foreground },
@@ -312,4 +312,3 @@ function M.get(config)
 end
 
 return M
-
